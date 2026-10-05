@@ -17,7 +17,7 @@ Output folder has text files of Outputs as well as output image from Gaussian Bl
 Supporting files folder contains all the necessary files that i used to answers the questions in the portfolio.
 
 GitHub Link:
-    https://github.com/sthasubin429/cuda-cw
+    https://github.com/subinstha/cuda-cw
 
 
 I used google colab to compute cuda files.
